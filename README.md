@@ -12,6 +12,17 @@ Retro-inspired console snake game written in modern C++.
 - WASD and Arrow Key controls
 - DOS-inspired UI
 
+## Screenshots
+
+### Start Screen
+![Start Screen](screenshots/startscreen.png)
+
+### Gameplay
+![Gameplay](screenshots/gameplay.png)
+
+### Game Over
+![Game Over](screenshots/gameover.png)
+
 ## About
 
 Personal indie/hobby portfolio project built in modern C++.
