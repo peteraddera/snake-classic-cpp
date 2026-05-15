@@ -18,7 +18,7 @@ Retro-inspired console snake game written in modern C++.
 ![Start Screen](screenshots/startscreen.png)
 
 ### Gameplay
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](screenshots/Gameplay.png)
 
 ### Game Over
 ![Game Over](screenshots/GameOver.png)
